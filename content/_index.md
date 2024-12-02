@@ -64,4 +64,4 @@ sections:
     content:
       title: Awards
       username: admin
-  ---
+---
