@@ -19,6 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
