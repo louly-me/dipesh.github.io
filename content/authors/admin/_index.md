@@ -3,7 +3,7 @@
 title: Dipesh Kunwar
 
 # Name pronunciation (optional)
-name_pronunciation: दिपेश कुँवर
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Dipesh
@@ -132,7 +132,7 @@ awards:
     date: '2018-05-11'
     awarder: Tribhuvan University
     summary: |
-      Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73^{rd}, Aerospace Major: 3^{rd})
+      Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73<sup>rd<\sup>}, Aerospace Major: 3<sup>rd<\sup>)
 ---
 
 ## About Me
