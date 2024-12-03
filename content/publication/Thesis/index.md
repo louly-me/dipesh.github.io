@@ -17,7 +17,7 @@ publishDate: "2023-04-15T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["articles"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Thesis"
@@ -49,7 +49,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-  
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
