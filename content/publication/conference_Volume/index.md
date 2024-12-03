@@ -6,7 +6,7 @@ title: 'Multi-objective Optimization Study for Sizing and Optimal Control for an
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yashwanth Pockereddy
+  - Yashwanth Pochereddy
   - Sushil Pandey
   - Antariksh Dicholkar
   - Johan Hjelm

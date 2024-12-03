@@ -5,7 +5,7 @@ title: 'Mass-based Optimization Studies for Sizing and Optimal Control of Hybrid
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yashwanth Pockereddy
+  - Yashwanth Pochereddy
   - admin
   - Sushil Pandey
   - Antariksh Dicholkar
