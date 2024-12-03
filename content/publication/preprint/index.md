@@ -1,12 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Formulation of Insitu Flight Performance Toolbox for Decision Support System"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Pratibha Bhandari
+- Swikriti Shrestha
+date: "2023-04-15T00:00:00Z"
+doi: https://elibrary.tucl.edu.np/handle/20.500.14540/17733
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-04-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,35 +16,36 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Thesis"
+publication_short: "Thesis"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Performance calculations for aircraft holds a major importance for flight operations and planning, which currently is relied heavily upon manufacturer specific charts. Operations in STOL fields adds further intensity to requirement of the calculations to be precise. The study aimed to enhance the efficiency of flight procedures management, fuel utilization, and flight feasibility assessment for specific circumstances through mathematical models for performance calculation in order to facilitate the flight crew, operators as well as aviation service providers with a means for quick estimation of operational requirements and performance data. A tool was developed using analytical techniques for estimation of operational requirements and performance calculation for different phases of flight which includes decision-making aids that consider the constraints imposed by the airport, aircraft, and regulations to facilitate flight operations. The results generated from the tool were validated against the performance charts included in the AFM of DHC-6, series 300 for takeoff, landing and rejected takeoff condition for which the deviations obtained were within 3%. The remaining phases of flight (i.e., climb, cruise and descent) were validated using simulated flight scenarios as well as manufacturer’s supplementary charts where the discrepancies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Large Language Models
+- Aircraft Performance
+- Decision Support System
 
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+#links:
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -51,20 +54,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
