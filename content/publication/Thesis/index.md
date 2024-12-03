@@ -12,7 +12,7 @@ date: "2023-04-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-04-15T00:00:00Z'
+publishDate: "2023-04-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -34,10 +34,10 @@ tags:
 
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
+ links:
+ - name: ""
+   url: "https://elibrary.tucl.edu.np/handle/20.500.14540/17733"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +47,7 @@ url_project: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -55,12 +55,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
