@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'kunwar-et-al-2024-iFDA.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
