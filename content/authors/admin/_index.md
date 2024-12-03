@@ -123,7 +123,7 @@ awards:
   - title: Global Award Nominee
     url: https://2020.spaceappschallenge.org/challenges/inform/mission-planet-earth-digital-history/teams/team-tyro/project
     date: '2020-01-21'
-    awarder: NASA SPACE APPS
+    awarder: NASA Space Apps Challange
     summary: |
       Global Award Nominee for NASA International Space Apps Challenge
   - title: Nepal Government's merit-based full scholarship
@@ -133,7 +133,7 @@ awards:
       Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73<sup>rd</sup>}, Aerospace Major: 3<sup>rd</sup>)
 ---
 
-## About Me
+## Biography
 
 
 Dipesh Kunwar is an Aerospace Engineer with a Bachelor's degree from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous expriences in UAV systems, aircraft performance and flight operations his research work spans along aerospace systems design, design optimization, and sustainable propulsion powertrains.
