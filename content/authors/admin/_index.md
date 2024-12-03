@@ -41,13 +41,13 @@ profiles:
     url: https://www.linkedin.com/in/dipesh-kunwar/
 
 education:
-  - area: Bachelor's Degree in Aerospace Engineering
+  - area: B.Eng in Aerospace Engineering
     institution: Tribhuvan University
     date_start: 2018-11-16
     date_end: 2023-04-16
     summary: |
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
-      - Ranked 2nd among all Engineering students from IOE
+      - Ranked 2<sup>nd</sup> among all Engineering students from IOE
       
       - Thesis on _Formulation of Insitu Flight Performance Toolbox for Decision Support System_. Supervised by [Dr. Sudip Bhattrai](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/). 
       
@@ -112,30 +112,30 @@ awards:
     date: '2023-08-01'
     awarder: Tribhuvan University
     summary: |
-      for ranking 2^{nd} among all engineering graduates in 2023
+      for ranking 2<sup>nd</sup> among all engineering graduates in 2023
 
   - title: Springer Nature’s award for Best Poster Presentation
     url: 
     date: '2022-12-01'
     awarder: Springer Nature
-    icon: edx
     summary: |
-      at 17$^{th}$ International Conference on Vibration Engineering and Technology of Machinery-VETOMAC 2022 
+      at 17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery-VETOMAC 2022 
   - title: Global Award Nominee
     url: https://2020.spaceappschallenge.org/challenges/inform/mission-planet-earth-digital-history/teams/team-tyro/project
     date: '2020-01-21'
     awarder: NASA SPACE APPS
-    icon: datacamp
     summary: |
       Global Award Nominee for NASA International Space Apps Challenge
   - title: Nepal Government's merit-based full scholarship
     date: '2018-05-11'
     awarder: Tribhuvan University
     summary: |
-      Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73<sup>rd<\sup>}, Aerospace Major: 3<sup>rd<\sup>)
+      Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73<sup>rd</sup>}, Aerospace Major: 3<sup>rd</sup>)
 ---
 
 ## About Me
 
 
 Dipesh Kunwar is an Aerospace Engineer with a Bachelor's degree from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous expriences in UAV systems, aircraft performance and flight operations his research work spans along aerospace systems design, design optimization, and sustainable propulsion powertrains.
+
+[Dipesh actively seeking to contribute his expertise to innovative engineering and research teams.]
