@@ -9,9 +9,12 @@ design:
 
 # Page sections
 sections:
-  - block: single
+  - block: Research
     content:
-      title: Research Experienecs
-      text: 
-      file: "project/data-visualization/index.md" 
+title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - project
+        exclude_featured: false
 ---
