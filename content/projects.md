@@ -9,15 +9,9 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: single
     content:
       title: Research Experienecs
       text: 
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: true
-      columns: 2
+      file: "project/data-visualization/index.md" 
 ---

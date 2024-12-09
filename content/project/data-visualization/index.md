@@ -1,22 +1,12 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
-authors:
-  - admin
-tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+title: Reserach and Projects
+summary:
+date:
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
-
-Use popular tools such as Plotly, Mermaid, and data frames.
-
-## Charts
+## Research Experiences
 
 Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
 
@@ -28,7 +18,7 @@ Demo:
 
 You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
 
-## Diagrams
+## Projects
 
 Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
 
@@ -154,4 +144,3 @@ renders as
 
 {{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
-## Did you find this page helpful? Consider sharing it 🙌
