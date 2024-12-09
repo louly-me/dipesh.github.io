@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2022-10-24
+date: 
 type: pages
 design:
   # Default section spacing
