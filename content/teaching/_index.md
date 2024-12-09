@@ -18,6 +18,7 @@ sections:
         folders:
           - teaching
     design:
-      view: article-grid
-      columns: 2
+      view: showcase
+      columns: '1'
+      flip_alt_rows: true
 ---

@@ -1,51 +1,25 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: Research Projects
+summary: 
 type: landing
 
-design:
-  # Default section spacing
-  spacing: "6rem"
-  background:
-    # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-  - block: resume-experience
-    id: experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
   - block: collection
-    id: publications
+    id: teaching
     content:
-      title: Recent Publications
-      text: ""
+      title: Teaching
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - projects
     design:
-      view: citation
-  - block: resume-awards
-    content:
-      title: Awards
-      date_format: '2006'
-      username: admin
+      view: showcase
+      columns: '1'
+      flip_alt_rows: true
+
 ---
