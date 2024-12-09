@@ -1,28 +1,20 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+title: Research and Projects
+summary: 
+date: 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
 authors:
-  - admin
-  - Ted
-
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+backlinks: false
+show_date: false
+show_related: false
+pager: false
+commentable: false
+profile: false
+reading_timr: false
 ---
 
-Welcome 👋
-
-{{< toc mobile_only=true is_open=true >}}
-
-## Overview
+# Research Projects
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
@@ -30,7 +22,7 @@ Welcome 👋
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-### Get Started
+### Project Experiences
 
 - 👉 [**Create a new site**](https://hugoblox.com/templates/)
 - 📚 [**Personalize your site**](https://docs.hugoblox.com/)
