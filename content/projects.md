@@ -11,7 +11,7 @@ design:
 sections:
   - block: Research
     content:
-title: Recent Publications
+      title: Recent Publications
       text: ""
       filters:
         folders:
