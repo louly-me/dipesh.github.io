@@ -15,6 +15,8 @@ share: false
 editable: false
 toc: false
 show_breadcrumb: false
+design:
+  view: showcase
 ---
 
 ## Research Projects
