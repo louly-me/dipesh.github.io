@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 
-type: pages
+type: docs
 design:
   # Default section spacing
   spacing: "6rem"
