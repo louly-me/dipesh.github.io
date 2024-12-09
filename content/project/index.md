@@ -2,7 +2,6 @@
 title: Research and Projects
 summary: 
 date: 
-image:
 authors:
 tags:
 backlinks: false
@@ -11,7 +10,10 @@ show_related: false
 pager: false
 commentable: false
 profile: false
-reading_timr: false
+reading_time: false
+share: false
+editable: false
+show_breadcrumb: false
 ---
 
 # Research Projects
